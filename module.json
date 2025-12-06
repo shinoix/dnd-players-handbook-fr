@@ -1,0 +1,41 @@
+{
+  "id": "dnd-players-handbook-fr",
+  "title": "D&D - Player's Handbook FR",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "esmodules" : [
+  "dnd-players-handbook-fr.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dnd-players-handbook",
+        "type": "module",
+        "compatibility": {}
+      }
+    ],
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Cereb",
+      "discord": "Cereb",
+      "flags": {}
+    }
+  ]
+}

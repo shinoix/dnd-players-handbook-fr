@@ -1,0 +1,41 @@
+{
+  "Item": {
+    "description": "system.description",
+    "activities": {
+      "path": "system.activities",
+      "converter": "activities"
+    },
+    "effects": {
+      "path": "effects",
+      "converter": "effects"
+    },
+    "rangeActivities": {
+      "path": "system.activities",
+      "converter": "rangeActivities"
+    },
+    "advancement": {
+      "path": "system.advancement",
+      "converter": "advancement"
+    },
+    "distanceAdvancement": {
+      "path": "system.advancement",
+      "converter": "distanceAdvancement"
+    },
+    "range": {
+      "path": "system.range",
+      "converter": "range"
+    },
+    "target": {
+      "path": "system.target",
+      "converter": "target"
+    },
+    "weight": {
+      "path": "system.weight",
+      "converter": "weight"
+    },
+    "capacityWeight": {
+      "path": "system.capacity.weight",
+      "converter": "weight"
+    }
+  }
+}
