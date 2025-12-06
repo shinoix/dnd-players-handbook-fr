@@ -1,51 +1,51 @@
 {
-  "label": "Roll Tables",
+  "label": "Tables aléatoires",
   "folders": {
-    "Personality Traits by Alignment": "Personality Traits by Alignment",
-    "Chapter 3": "Chapter 3",
-    "Chapter 7": "Chapter 7",
-    "Descriptions by Ability Score": "Descriptions by Ability Score",
+    "Personality Traits by Alignment": "Traits de personnalité par alignement",
+    "Chapter 3": "Chapitre 3",
+    "Chapter 7": "Chapitre 7",
+    "Descriptions by Ability Score": "Descriptions par valeur de caractéristique",
     "Reincarnated Lineages": "Reincarnated Lineages",
-    "Chapter 2": "Chapter 2"
+    "Chapter 2": "Chapitre 2"
   },
   "entries": {
     "Chaotic Traits": {
-      "name": "Chaotic Traits",
+      "name": "Traits Chaotique",
       "results": {
-        "1-1": "Boastful",
-        "2-2": "Impulsive",
-        "3-3": "Rebellious",
-        "4-4": "Self-absorbed"
+        "1-1": "Vantard",
+        "2-2": "Inconsidéré",
+        "3-3": "Rebelle",
+        "4-4": "Égocentrique"
       }
     },
     "Charisma": {
-      "name": "Charisma",
-      "description": "<p>This table provides four descriptors that can be used for your character dependent on whether their ability score is <strong>high</strong> or <strong>low</strong>.</p>",
+      "name": "Charisme",
+      "description": "<p>Cette table fournit quatre épithètes descriptives qui peuvent être utilisées pour votre personnage selon le fait que sa caratéristique de Charisme soit <strong>élevée</strong> ou <strong>basse</strong>.</p>",
       "results": {
-        "1-1": "<strong>High:</strong> Charming. <strong>Low:</strong> Pedantic.",
-        "2-2": "<strong>High:</strong> Commanding. <strong>Low:</strong> Humorless.",
-        "3-3": "<strong>High:</strong> Hilarious. <strong>Low:</strong> Reserved.",
-        "4-4": "<strong>High:</strong> Inspiring. <strong>Low:</strong> Tactless."
+        "1-1": "<strong>Élevée:</strong> Charmant. <strong>Basse:</strong> Ergoteur.",
+        "2-2": "<strong>Élevée:</strong> Digne. <strong>Basse:</strong> Morne.",
+        "3-3": "<strong>Élevée:</strong> Hilarant. <strong>Basse:</strong> Réservé.",
+        "4-4": "<strong>Élevée:</strong> Exaltant. <strong>Basse:</strong> Indélicat."
       }
     },
     "Constitution": {
       "name": "Constitution",
-      "description": "<p>This table provides four descriptors that can be used for your character dependent on whether their ability score is <strong>high</strong> or <strong>low</strong>.</p>",
+      "description": "<p>Cette table fournit quatre épithètes descriptives qui peuvent être utilisées pour votre personnage selon le fait que sa caratéristique de Constitution soit <strong>élevée</strong> ou <strong>basse</strong>.</p>",
       "results": {
-        "1-1": "<strong>High:</strong> Energetic. <strong>Low:</strong> Frail.",
-        "2-2": "<strong>High:</strong> Hale. <strong>Low:</strong> Squeamish.",
-        "3-3": "<strong>High:</strong> Hearty. <strong>Low:</strong> Lethargic.",
-        "4-4": "<strong>High:</strong> Stable. <strong>Low:</strong> Fragile."
+        "1-1": "<strong>Élevée:</strong> Énergique. <strong>Basse:</strong> Chétif.",
+        "2-2": "<strong>Élevée:</strong> Vigoureux. <strong>Basse:</strong> Délicat.",
+        "3-3": "<strong>Élevée:</strong> Robuste. <strong>Basse:</strong> Léthargique.",
+        "4-4": "<strong>Élevée:</strong> Solide. <strong>Basse:</strong> Fragile."
       }
     },
     "Dexterity": {
-      "name": "Dexterity",
-      "description": "<p>This table provides four descriptors that can be used for your character dependent on whether their ability score is <strong>high</strong> or <strong>low</strong>.</p>",
+      "name": "Dextérité",
+      "description": "<p>Cette table fournit quatre épithètes descriptives qui peuvent être utilisées pour votre personnage selon le fait que sa caratéristique de Dextérité soit <strong>élevée</strong> ou <strong>basse</strong>.</p>",
       "results": {
-        "1-1": "<strong>High:</strong> Lithe. <strong>Low:</strong> Jittery.",
-        "2-2": "<strong>High:</strong> Dynamic. <strong>Low:</strong> Clumsy.",
-        "3-3": "<strong>High:</strong> Fidgety. <strong>Low:</strong> Hesitant.",
-        "4-4": "<strong>High:</strong> Poised. <strong>Low:</strong> Unsteady."
+        "1-1": "<strong>Élevée:</strong> Félin. <strong>Basse:</strong> Nerveux.",
+        "2-2": "<strong>Élevée:</strong> Dynamique. <strong>Basse:</strong> Gauche.",
+        "3-3": "<strong>Élevée:</strong> Remuant. <strong>Basse:</strong> Hésitant.",
+        "4-4": "<strong>Élevée:</strong> Posé. <strong>Basse:</strong> Fébrile."
       }
     },
     "Elven Lineage": {
@@ -53,12 +53,12 @@
       "description": "<p>You are part of a lineage that grants you supernatural abilities.</p>"
     },
     "Evil Traits": {
-      "name": "Evil Traits",
+      "name": "Traits Mauvais",
       "results": {
-        "1-1": "Dishonest",
-        "2-2": "Vengeful",
+        "1-1": "Malhonnête",
+        "2-2": "Vindicatif",
         "3-3": "Cruel",
-        "4-4": "Greedy"
+        "4-4": "Cupide"
       }
     },
     "Feywild Gifts": {
@@ -81,31 +81,31 @@
       "description": "<p>You are part of a lineage that grants you supernatural abilities.</p>"
     },
     "Good Traits": {
-      "name": "Good Traits",
+      "name": "Traits Bon",
       "results": {
-        "1-1": "Compassionate",
-        "2-2": "Helpful",
-        "3-3": "Honest",
-        "4-4": "Kind"
+        "1-1": "Compatissant",
+        "2-2": "Secourable",
+        "3-3": "Honnête",
+        "4-4": "Bienfaisant"
       }
     },
     "Intelligence": {
       "name": "Intelligence",
-      "description": "<p>This table provides four descriptors that can be used for your character dependent on whether their ability score is <strong>high</strong> or <strong>low</strong>.</p>",
+      "description": "<p>Cette table fournit quatre épithètes descriptives qui peuvent être utilisées pour votre personnage selon le fait que sa caratéristique d'Intelligence soit <strong>élevée</strong> ou <strong>basse</strong>.</p>",
       "results": {
-        "1-1": "<strong>High:</strong> Decisive. <strong>Low:</strong> Artless.",
-        "2-2": "<strong>High:</strong> Logical. <strong>Low:</strong> Illogical.",
-        "3-3": "<strong>High:</strong> Informative. <strong>Low:</strong> Uninformed.",
-        "4-4": "<strong>High:</strong> Curious. <strong>Low:</strong> Frivolous."
+        "1-1": "<strong>Élevée:</strong> Résolu. <strong>Basse:</strong> Fruste.",
+        "2-2": "<strong>Élevée:</strong> Rationnel. <strong>Basse:</strong> Irrationnel.",
+        "3-3": "<strong>Élevée:</strong> Pédagogue. <strong>Basse:</strong> Inculte.",
+        "4-4": "<strong>Élevée:</strong> Curieux. <strong>Basse:</strong> Superficiel."
       }
     },
     "Lawful Traits": {
-      "name": "Lawful Traits",
+      "name": "Traits Loyal",
       "results": {
-        "1-1": "Cooperative",
-        "2-2": "Loyal",
-        "3-3": "Judgmental",
-        "4-4": "Methodical"
+        "1-1": "Coopératif",
+        "2-2": "Fiable",
+        "3-3": "Critique",
+        "4-4": "Méthodique"
       }
     },
     "Manifestations of Order": {
@@ -120,12 +120,12 @@
       }
     },
     "Neutral Traits": {
-      "name": "Neutral Traits",
+      "name": "Traits Neutre",
       "results": {
-        "1-1": "Selfish",
-        "2-2": "Disinterested",
-        "3-3": "Laconic",
-        "4-4": "Pragmatic"
+        "1-1": "Égoïste",
+        "2-2": "Indifférent",
+        "3-3": "Taiseux",
+        "4-4": "Pragmatique"
       }
     },
     "Prismatic Layers": {
@@ -154,9 +154,9 @@
       }
     },
     "Standard Languages": {
-      "name": "Standard Languages",
+      "name": "Langues courantes",
       "results": {
-        "rViHFEn5WjhRbElK": "<strong>Language:</strong> Common. <strong>Origin:</strong> Sigil."
+        "rViHFEn5WjhRbElK": "<strong>Langue:</strong> Commun. <strong>Origine:</strong> Sigil."
       }
     },
     "Star Map Forms": {
@@ -171,32 +171,32 @@
       }
     },
     "Trinkets": {
-      "name": "Trinkets",
+      "name": "Babioles",
       "results": {
-        "1-1": "A mummified goblin hand",
-        "2-2": "A crystal that faintly glows in moonlight",
-        "3-3": "A gold coin minted in an unknown land",
-        "4-4": "A diary written in a language you don’t know",
-        "5-5": "A brass ring that never tarnishes",
-        "6-6": "An old chess piece made from glass",
-        "7-7": "A pair of knucklebone dice, each with a skull symbol on the side that would normally show six pips",
-        "8-8": "A small idol depicting a nightmarish creature that gives you unsettling dreams when you sleep near it",
-        "9-9": "A lock of someone’s hair",
-        "10-10": "The deed for a parcel of land in a realm unknown to you",
-        "11-11": "A 1-ounce block made from an unknown material",
-        "12-12": "A small cloth doll skewered with needles",
-        "13-13": "A tooth from an unknown beast",
-        "14-14": "An enormous scale, perhaps from a dragon",
-        "15-15": "A bright-green feather",
-        "16-16": "An old divination card bearing your likeness",
-        "17-17": "A glass orb filled with moving smoke",
-        "18-18": "A 1-pound egg with a bright-red shell",
-        "19-19": "A pipe that blows bubbles",
-        "20-20": "A glass jar containing a bit of flesh floating in pickling fluid",
-        "21-21": "A gnome-crafted music box that plays a song you dimly remember from your childhood",
-        "22-22": "A wooden statuette of a smug halfling",
-        "23-23": "A brass orb etched with strange runes",
-        "24-24": "A multicolored stone disk",
+        "1-1": "Main momifiée de gobelin",
+        "2-2": "Cristal qui luit faiblement au clair de lune",
+        "3-3": "Pièce d'or frappée dans une contrée inconnue",
+        "4-4": "Journal intime dans une langue que vous ignorez",
+        "5-5": "Bague en laiton qui ne ternit pas",
+        "6-6": "Vieille pièce d'échec en verre",
+        "7-7": "Deux osselets qui servent de dés, avec un crâne à la place des six points",
+        "8-8": "Petite idole de créature effroyable, qui provoque des cauchemars quand vous dormez à côté",
+        "9-9": "Mèche de cheveux",
+        "10-10": "Titre de propriété terrestre dans un Royaume qui vous est inconnu",
+        "11-11": "Bloc de 30 g d'un matériau inconnu",
+        "12-12": "Poupée de chiffon hérissée d'aiguilles",
+        "13-13": "Dent issue d'une bête inconnue",
+        "14-14": "Énorme écaille, peut-être issue d'un dragon",
+        "15-15": "Plume d'un vert très vif",
+        "16-16": "Vieille carte divinatoire à votre effigie",
+        "17-17": "Globe de verre empli de fumée mouvante",
+        "18-18": "Œuf de 500 g à la coquille rouge vif",
+        "19-19": "Pipe qui fait des bulles",
+        "20-20": "Bocal de verre renfermant un morceau de chair flottant dans la saumure",
+        "21-21": "Boîte à musique de facture gnome qui produit une mélodie évoquant votre enfance",
+        "22-22": "Statuette en bois représentant un halfelin arrogant",
+        "23-23": "Globe en laiton gravé d'étranges runes",
+        "24-24": "Disque de Pierre multicolore",
         "25-25": "A silver icon of a raven",
         "26-26": "A bag containing forty-seven teeth, one of which is rotten",
         "27-27": "A shard of obsidian that always feels warm to the touch",
@@ -276,27 +276,27 @@
       }
     },
     "Strength": {
-      "name": "Strength",
-      "description": "<p>This table provides four descriptors that can be used for your character dependent on whether their ability score is <strong>high</strong> or <strong>low</strong>.</p>",
+      "name": "Force",
+      "description": "<p>Cette table fournit quatre épithètes descriptives qui peuvent être utilisées pour votre personnage selon le fait que sa caratéristique de Force soit <strong>élevée</strong> ou <strong>basse</strong>.</p>",
       "results": {
-        "1-1": "<strong>High:</strong> Muscular. <strong>Low:</strong> Weak.",
-        "2-2": "<strong>High:</strong> Sinewy. <strong>Low:</strong> Slight.",
-        "3-3": "<strong>High:</strong> Protective. <strong>Low:</strong> Self-conscious.",
-        "4-4": "<strong>High:</strong> Direct. <strong>Low:</strong> Indirect."
+        "1-1": "<strong>Élevée:</strong> Musculeux. <strong>Basse:</strong> Faible.",
+        "2-2": "<strong>Élevée:</strong> Athlétique. <strong>Basse:</strong> Frêle.",
+        "3-3": "<strong>Élevée:</strong> Protecteur. <strong>Basse:</strong> Complexé.",
+        "4-4": "<strong>Élevée:</strong> Direct. <strong>Basse:</strong> Fuyant."
       }
     },
     "Sub-Languages Table": {
-      "name": "Sub-Languages Table",
+      "name": "Table de sous-langue",
       "results": {
-        "1-1": "<strong>Language:</strong> Common Sign Language. <strong>Origin:</strong> Sigil.",
-        "2-2": "<strong>Language:</strong> Draconic. <strong>Origin:</strong> Dragons.",
-        "3-4": "<strong>Language:</strong> Dwarvish. <strong>Origin:</strong> Dwarves.",
-        "5-6": "<strong>Language:</strong> Elvish. <strong>Origin:</strong> Elves.",
-        "7-7": "<strong>Language:</strong> Giant. <strong>Origin:</strong> Giants.",
-        "8-8": "<strong>Language:</strong> Gnomish. <strong>Origin:</strong> Gnomes.",
-        "9-9": "<strong>Language:</strong> Goblin. <strong>Origin:</strong> Goblinoids.",
-        "10-11": "<strong>Language:</strong> Halfling. <strong>Origin:</strong> Halflings.",
-        "12-12": "<strong>Language:</strong> Orc. <strong>Origin:</strong> Orcs."
+        "1-1": "<strong>Langue:</strong> Langue multiverselle des signes. <strong>Origine:</strong> Sigil.",
+        "2-2": "<strong>Langue:</strong> Draconique. <strong>Origine:</strong> Dragons.",
+        "3-4": "<strong>Langue:</strong> Nain. <strong>Origine:</strong> Nains.",
+        "5-6": "<strong>Langue:</strong> Elfique. <strong>Origine:</strong> Elfes.",
+        "7-7": "<strong>Langue:</strong> Gigant. <strong>Origine:</strong> Géants.",
+        "8-8": "<strong>Langue:</strong> Gnome. <strong>Origine:</strong> Gnomes.",
+        "9-9": "<strong>Langue:</strong> Gobelin. <strong>Origine:</strong> Gobelinoïdes.",
+        "10-11": "<strong>Langue:</strong> Halfelin. <strong>Origine:</strong> Halfelins.",
+        "12-12": "<strong>Langue:</strong> Orc. <strong>Origine:</strong> Orcs."
       }
     },
     "Wild Magic Surge": {
@@ -330,22 +330,22 @@
       }
     },
     "Wisdom": {
-      "name": "Wisdom",
-      "description": "<p>This table provides four descriptors that can be used for your character dependent on whether their ability score is <strong>high</strong> or <strong>low</strong>.</p>",
+      "name": "Sagesse",
+      "description": "<p>Cette table fournit quatre épithètes descriptives qui peuvent être utilisées pour votre personnage selon le fait que sa caratéristique de Sagesse soit <strong>élevée</strong> ou <strong>basse</strong>.</p>",
       "results": {
-        "1-1": "<strong>High:</strong> Serene. <strong>Low:</strong> Rash.",
-        "2-2": "<strong>High:</strong> Considerate. <strong>Low:</strong> Distracted.",
-        "3-3": "<strong>High:</strong> Attentive. <strong>Low:</strong> Oblivious.",
-        "4-4": "<strong>High:</strong> Wary. <strong>Low:</strong> Naive."
+        "1-1": "<strong>Élevée:</strong> Serein. <strong>Basse:</strong> Impulsif.",
+        "2-2": "<strong>Élevée:</strong> Prévenant. <strong>Basse:</strong> Étourdi.",
+        "3-3": "<strong>Élevée:</strong> Attentif. <strong>Basse:</strong> Inattentif.",
+        "4-4": "<strong>Élevée:</strong> Circonspect. <strong>Basse:</strong> Naïf."
       }
     },
     "Cardinal Directions": {
-      "name": "Cardinal Directions",
+      "name": "Directions cardinales",
       "results": {
-        "1-1": "North",
-        "2-2": "East",
-        "3-3": "South",
-        "4-4": "West"
+        "1-1": "Nord",
+        "2-2": "Est",
+        "3-3": "Sud",
+        "4-4": "Ouest"
       }
     },
     "Confusion Behavior": {
