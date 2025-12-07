@@ -1,18 +1,18 @@
 {
-  "label": "Rules",
+  "label": "Règles",
   "folders": {
-    "Monsters": "Monsters",
-    "Appendices": "Appendices",
-    "Gameplay Toolbox": "Gameplay Toolbox",
-    "Chapter 1": "Chapter 1",
-    "Chapter 2": "Chapter 2",
-    "Chapter 3": "Chapter 3",
-    "DM's Toolbox": "DM's Toolbox",
-    "Chapter 4": "Chapter 4",
-    "Chapter 5": "Chapter 5",
-    "Magic Items": "Magic Items",
-    "Chapter 6": "Chapter 6",
-    "Chapter 7": "Chapter 7"
+    "Monsters": "Monstres",
+    "Appendices": "Annexes",
+    "Gameplay Toolbox": "Outils de joueurs",
+    "Chapter 1": "Chapitre 1",
+    "Chapter 2": "Chapitre 2",
+    "Chapter 3": "Chapitre 3",
+    "DM's Toolbox": "Outils de MD",
+    "Chapter 4": "Chapitre 4",
+    "Chapter 5": "Chapitre 5",
+    "Magic Items": "Objets magiques",
+    "Chapter 6": "Chapitre 6",
+    "Chapter 7": "Chapitre 7"
   },
   "entries": {
     "Gameplay Toolbox": {
@@ -641,7 +641,7 @@
       }
     },
     "Appendix: Monster Details": {
-      "name": "Appendix: Monster Details",
+      "name": "Annexe: Détails des monstres",
       "pages": {
         "Animated Objects": {
           "name": "Animated Objects",
@@ -1034,7 +1034,7 @@
       }
     },
     "Monsters": {
-      "name": "Monsters",
+      "name": "Monstres",
       "pages": {
         "Stat Block Overview": {
           "name": "Stat Block Overview",
@@ -1819,7 +1819,7 @@
       }
     },
     "Rules Glossary": {
-      "name": "Rules Glossary",
+      "name": "Glossaire de règles",
       "pages": {
         "Lightly Obscured": {
           "name": "Visibilité réduite",
@@ -2058,8 +2058,8 @@
           "text": "<p>A creature has a Speed, which is the distance in feet the creature can cover when it moves on its turn. <em>See also</em> @UUID[.a4CjDIEMeSbRaEjA]{Climbing}, @UUID[.zRZl7vdjzjqpazxn]{Crawling}, @UUID[.ozHhbP8JVHCJAx0b]{Flying}, @UUID[.aaJOlRhI1H6vAxt9]{Jumping}, @UUID[.53c9JMqckHagYYB5]{Swimming}.</p><p><em><strong>Special Speeds.</strong></em> Some creatures have special speeds, such as a Burrow Speed, Climb Speed, Fly Speed, or Swim Speed, each of which is defined in this glossary. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.</p><p><em><strong>Changes to Your Speeds.</strong></em> If an effect increases or decreases your Speed for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your Speed is reduced to 0 and you have a Climb Speed, your Climb Speed is also reduced to 0. Similarly, if your Speed is halved and you have a Fly Speed, your Fly Speed is also halved.</p>"
         },
         "Difficult Terrain": {
-          "name": "Difficult Terrain",
-          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.6tqz947qO8vPyxvD inline]</p><p>A space is Difficult Terrain if the space contains any of the following or something similar:</p><ul><li><p>A creature that isn’t Tiny or your ally</p></li><li><p>Furniture that is sized for creatures of your size or larger</p></li><li><p>Heavy snow, ice, rubble, or undergrowth</p></li><li><p>Liquid that’s between shin- and waist-deep</p></li><li><p>A narrow opening sized for a creature one size smaller than you</p></li><li><p>A slope of 20 degrees or more</p></li></ul>"
+          "name": "Terrain difficile",
+          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.6tqz947qO8vPyxvD inline]</p><p>Un espace est un Terrain difficile s’il contient l’un des éléments ci-après ou quelque chose d’approchant :</p><ul><li><p>Créature qui n’est ni de taille TP ni votre allié</p></li><li><p>Mobilier adapté à votre catégorie de taille ou aux créatures de taille supérieure</p></li><li><p>Neige abondante, glace, éboulis ou taillis</p></li><li><p>Élément liquide d’une profondeur intermédiaire (entre mi-mollets et le niveau de la taille)</p></li><li><p>Ouverture étroite, conçue pour une créature dont la catégorie de taille est d’un cran inférieure à la vôtre</p></li><li><p>Pente de 20 degrés ou plus</p></li></ul>"
         },
         "Crawling": {
           "name": "Crawling",
@@ -2122,7 +2122,7 @@
           "text": "<p>A creature is your ally if it is a member of your adventuring party, your friend, on your side in combat, or a creature that the rules or the GM designates as your ally.</p>"
         },
         "Cover": {
-          "name": "Cover",
+          "name": "Abri",
           "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.W7f7PcRubNUMIq2S inline]</p>"
         },
         "Creature": {
@@ -2497,7 +2497,7 @@
       }
     },
     "Appendix D: Rule References": {
-      "name": "Appendix D: Rule References",
+      "name": "Appendix D: Références",
       "pages": {
         "Heroic Inspiration": {
           "name": "Heroic Inspiration",
@@ -2517,8 +2517,8 @@
           "text": "<p>While traveling outside combat, a group can move at a Fast, Normal, or Slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time; if riding horses or other mounts, the group can move twice that distance for 1 hour, after which the mounts need a &amp;Reference[Short Rest]{Short} or &amp;Reference[Long Rest] before they can move at that increased pace again (see @UUID[Compendium.dnd5e.content24.JournalEntry.phbMountsAndVehi.JournalEntryPage.NVPIUDJEdFDaErTg]{chapter 6} for a selection of mounts for sale). The <em>Game Master’s Guide</em> has rules that affect which pace you can choose in certain types of terrain.</p><table><caption>Travel Pace</caption><thead><tr><th></th><th colspan=\"3\"><p>Distance Traveled Per …</p></th></tr><tr><th><p>Pace</p></th><th><p>Minute</p></th><th><p>Hour</p></th><th colspan=\"2\"><p>Day</p></th></tr></thead><tbody><tr><td><p>Fast</p></td><td><p>400 feet</p></td><td><p>4 miles</p></td><td><p>30 miles</p></td></tr><tr><td><p>Normal</p></td><td><p>300 feet</p></td><td><p>3 miles</p></td><td><p>24 miles</p></td></tr><tr><td><p>Slow</p></td><td><p>200 feet</p></td><td><p>2 miles</p></td><td><p>18 miles</p></td></tr></tbody></table><p>Each travel pace has a game effect, as defined below.</p><p>@Embed[.mpnTe02usA9fgzCr inline]</p><p>@Embed[.bcPsR1qaLLv7uBGe inline]</p><p>@Embed[.khOKcrcql9Cssgnb inline]</p>"
         },
         "Difficult Terrain": {
-          "name": "Difficult Terrain",
-          "text": "<p>Every foot of movement in Difficult Terrain costs 1 extra foot, even if multiple things in a space count as Difficult Terrain.</p>"
+          "name": "Terrain difficile",
+          "text": "<p>Si un espace est un Terrain difficile, le déplacement y est doublé. Se déplacer de 1,50 m en Terrain difficile, par exemple, coûte 3 m de déplacement. Le Terrain difficile n’est pas cumulatif ; soit un espace est un Terrain difficile, soit il ne l’est pas.</p>"
         },
         "Climbing, Swimming, and Crawling": {
           "name": "Climbing, Swimming, and Crawling",
@@ -2782,15 +2782,15 @@
         },
         "Surprise": {
           "name": "Surprise",
-          "text": "<p>If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have &amp;Reference[disadvantage] on its Initiative roll.</p>"
+          "text": "<p>Une créature prise au dépourvu au début d’un combat est surprise, avec pour conséquence de subir le &amp;Reference[disadvantage] à son jet d’Initiative.</p>"
         },
         "RcwElV4GAcVXKWxo": {
           "name": "Initiative",
-          "text": "<p>Initiative determines the order of turns during combat. The combat rules in chapter 1 explain how to roll Initiative.</p><p>Sometimes a DM might have combatants use their Initiative scores instead of rolling Initiative. Your Initiative score equals 10 plus your Dexterity modifier. If you have Advantage on Initiative rolls, increase your Initiative score by 5. If you have Disadvantage on those rolls, decrease that score by 5.</p>"
+          "text": "<p>L’Initiative détermine la séquence des tours durant un combat. Les règles de combat du chapitre 1 expliquent comment jouer l’Initiative.</p><p>Le MD préférera parfois demander aux combattants d’utiliser leur valeur d’Initiative au lieu de jouer l’Initiative. Votre valeur d’Initiative est égale à 10 + votre modificateur de Dextérité. Si vous avez l’Avantage au jet d’Initiative, augmentez de 5 votre valeur d’Initiative. Si vous subissez le Désavantage à ce même jet, diminuez cette valeur de 5.</p>"
         },
         "Your Turn": {
-          "name": "Your Turn",
-          "text": "<p>On your turn, you can move a distance up to your &amp;Reference[Speed] and take one action. You decide whether to move first or take your action first.</p><p>The main actions you can take are listed in @UUID[Compendium.dnd5e.content24.JournalEntry.phbActions000000]{Actions}. A character’s features and a monster’s stat block also provide action options. @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000.JournalEntryPage.E9fzdKGx4UxrtOG7]{Movement and Position} gives the rules for movement.</p><p><em><strong>Communicating.</strong></em> You can communicate however you are able—through brief utterances and gestures—as you take your turn. Doing so uses neither your action nor your move.</p><p>Extended communication, such as a detailed explanation of something or an attempt to persuade a foe, requires an action. The Influence action is the main way you try to influence a monster.</p><p><em><strong>Interacting with Things.</strong></em> You can interact with one object or feature of the environment for free, during either your move or action. For example, you could open a door during your move as you stride toward a foe.</p><p>If you want to interact with a second object, you need to take the &amp;Reference[Utilize] action. Some magic items and other special objects always require an action to use, as stated in their descriptions.</p><p>The GM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the GM might require you to take the Utilize action to open a stuck door or turn a crank to lower a drawbridge.</p><p><em><strong>Doing Nothing on Your Turn</strong></em><strong>.</strong> You can forgo moving, taking an action, or doing anything at all on your turn. If you can’t decide what to do, consider taking the defensive Dodge action or the Ready action to delay acting.</p>"
+          "name": "Votre tour",
+          "text": "<p>À votre tour, vous pouvez vous déplacer d’une distance n’excédant pas votre &amp;Reference[Speed] et entreprendre une action. Vous décidez ce qui intervient en premier entre votre déplacement et votre action.</p><p>Les principales actions possibles figurent à @UUID[Compendium.dnd5e.content24.JournalEntry.phbActions000000]{Actions}, plus haut dans ce chapitre. Les aptitudes de personnage et les profils de monstre fournissent en outre d’autres options. La section @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000.JournalEntryPage.E9fzdKGx4UxrtOG7]{Déplacement et position}, plus loin dans ce chapitre, détaille les règles de déplacement.</p><p><em><strong>Communiquer.</strong></em> Vous pouvez communiquer par les moyens disponibles, que ce soit par quelques mots ou par gestes brefs, lorsque vous jouez votre tour. Cela ne dépense ni votre action ni votre déplacement.</p><p>Les échanges plus longs, explications détaillées ou négociations avec l’ennemi, demandent une action. C’est par l’action Influence qu’on tentera le plus souvent d’influencer un monstre.</p><p><em><strong>Interagir avec des objets ou l’environnement.</strong></em> Vous pouvez interagir avec un objet ou un élément de l’environnement, gratuitement, durant votre déplacement ou votre action (mais pas les deux). Vous pouvez ainsi ouvrir une porte en plein déplacement pour venir à portée d’un adversaire.</p><p>Si vous souhaitez interagir avec un second objet, il vous faut entreprendre l’action &amp;Reference[Utilize]. L’utilisation de certains objets magiques et autres objets spéciaux vous demande d’y consacrer votre action, comme indiqué dans leur description.</p><p>Le MD peut vous demander de consacrer votre action à ces tâches lorsqu’un soin particulier est demandé ou lorsqu’elles présentent une difficulté inhabituelle. Ainsi, le MD peut exiger que vous entrepreniez l’action Utilisation pour ouvrir une porte coincée ou pour actionner la manivelle d’un puits lourd.</p><p><em><strong>Ne rien faire à votre tour</strong></em><strong>.</strong> Vous pouvez parfaitement renoncer à votre déplacement ou à votre action, et même à ne rien faire du tout à votre tour. Si vous n’arrivez pas à vous décider, rabattez-vous sur l’action Esquive ou l’action Intention (pour agir plus tard).</p>"
         },
         "Bonus Actions": {
           "name": "Actions Bonus",
@@ -2817,16 +2817,16 @@
           "text": "<p><em><strong>Using different speeds.</strong></em> If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.</p>"
         },
         "6tqz947qO8vPyxvD": {
-          "name": "Difficult Terrain",
-          "text": "<p>If a space is Difficult Terrain, every foot of movement in that space costs 1 extra foot. For example, moving 5 feet through Difficult Terrain costs 10 feet of movement. Difficult Terrain isn’t cumulative; either a space is Difficult Terrain or it isn’t.</p>"
+          "name": "Terrain difficile",
+          "text": "<p>Toute distance parcourue sur un Terrain difficile vous coûte le double en terme de déplacement, même quand plusieurs critères de la zone en font un Terrain difficile.</p>"
         },
         "Being Prone": {
           "name": "Being Prone",
           "text": "<p>While you have the Prone condition, you experience the following effects.</p><p><em><strong>Restricted Movement.</strong></em> Your only movement options are to crawl or to spend an amount of movement equal to half your Speed (round down) to right yourself and thereby end the condition. If your Speed is 0, you can’t right yourself.</p><p><em><strong>Attacks Affected.</strong></em> You have Disadvantage on attack rolls. An attack roll against you has Advantage if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.</p><p>@Embed[.hwTLpAtSS5OqQsI1 inline]</p><p>@Embed[.VWG9qe8PUNtS28Pw inline]</p>"
         },
         "Crawling": {
-          "name": "Crawling",
-          "text": "<p>While you’re crawling, each foot of movement costs 1 extra foot (2 extra feet in &amp;Reference[Difficult Terrain]).</p>"
+          "name": "Reptation",
+          "text": "<p>Lorsque vous rampez, toute distance parcourue vous coûte le double de déplacement (le triple en &amp;Reference[Difficult Terrain].</p>"
         },
         "Dropping Prone": {
           "name": "Dropping Prone",
@@ -2841,8 +2841,8 @@
           "text": "<p>During your move, you can pass through the space of an ally, a creature that has the &amp;Reference[Incapacitated] condition, a Tiny creature, or a creature that is two sizes larger or smaller than you.</p><p>Another creature’s space is &amp;Reference[Difficult Terrain] for you unless that creature is Tiny or your ally.</p><p>You can’t willingly end a move in a space occupied by another creature. If you somehow end a turn in a space with another creature, you have the &amp;Reference[Prone] condition unless you are Tiny or are of a larger size than the other creature.</p>"
         },
         "Flying Movement": {
-          "name": "Flying Movement",
-          "text": "<p>A variety of effects allow a creature to fly. While flying, you fall if you have the &amp;Reference[Incapacitated] or &amp;Reference[Prone] condition or your Fly Speed is reduced to 0. You can stay aloft in those circumstances if you can hover.</p>"
+          "name": "Vol",
+          "text": "<p>Divers effets permettent à une créature de voler. Lorsque vous volez, vous tombez si vous subissez l’état &amp;Reference[Incapacitated] ou &amp;Reference[Prone], ou si votre Vitesse de vol est réduite à 0. Pour rester en l’air dans pareilles circonstances, vous devez disposer du Vol stationnaire.</p>"
         },
         "Creature Size": {
           "name": "Creature Size",
@@ -2914,17 +2914,17 @@
           "text": "<p>When you make an attack roll against a target you can’t see, you have Disadvantage on the roll. This is true whether you’re guessing the target’s location or targeting a creature you can hear but not see. If the target isn’t in the location you targeted, you miss.</p><p>When a creature can’t see you, you have Advantage on attack rolls against it.</p><p>If you are hidden when you make an attack roll, you give away your location when the attack hits or misses.</p>"
         },
         "Ranged Attacks": {
-          "name": "Ranged Attacks",
-          "text": "<p>When you make a ranged attack, you fire a bow, hurl an axe, or otherwise send projectiles to strike a foe at a distance. Many spells also involve making a ranged attack.</p><h3>Range</h3><p>@Embed[.HjKXuB8ndjcqOds7 inline]</p><h3>Ranged Attacks in Close Combat</h3><p>@Embed[.qEZvxW0NM7ixSQP5 inline]</p>",
-          "tooltip": "<p>When you make a ranged attack, you fire a bow, hurl an axe, or otherwise send projectiles to strike a foe at a distance. Many spells also involve making a ranged attack.</p>"
+          "name": "Attaques à distance",
+          "text": "<p>Lorsque vous effectuez une attaque à distance, vous tirez à l'arc, lancez une hache ou des projectiles vers un adversaire distant. De nombreux sorts font également intervenir une attaque à distance.</p><h3>Portée</h3><p>@Embed[.HjKXuB8ndjcqOds7 inline]</p><h3>Attaques à distance en combat rapproché</h3><p>@Embed[.qEZvxW0NM7ixSQP5 inline]</p>",
+          "tooltip": "<p>Lorsque vous effectuez une attaque à distance, vous tirez à l'arc, lancez une hache ou des projectiles vers un adversaire distant. De nombreux sorts font également intervenir une attaque à distance.</p>"
         },
         "Range": {
-          "name": "Range",
-          "text": "<p>You can make ranged attacks only against targets within a specified range. If a ranged attack, such as one made with a spell, has a single range, you can’t attack a target beyond this range.</p><p>Some ranged attacks, such as those made with a Longbow, have two ranges. The smaller number is the normal range, and the larger number is the long range. Your attack roll has &amp;Reference[Disadvantage] when your target is beyond normal range, and you can’t attack a target beyond long range.</p>"
+          "name": "Portée",
+          "text": "<p>Vous ne pouvez effectuer une attaque à distance que si votre cible se situe à une portée spécifiée. Quand une attaque à distance, comme celle qu'on effectue avec un sort, n'indique qu'une seule portée, vous ne pouvez pas attaquer une cible hors de cette portée.</p><p>Certaines attaques à distance, comme celles qu'on effectue avec un arc long, présentent deux portées. Le nombre le plus petit représente la portée normale, tandis que le plus grand correspond à la portée longue. Votre jet d'attaque a le &amp;Reference[Disadvantage] lorsque votre cible se situe au-delà de la portée normale ; en outre, vous ne pouvez pas attaquer une cible située au-delà de la portée longue.</p>"
         },
         "Ranged Attacks in Close Combat": {
-          "name": "Ranged Attacks in Close Combat",
-          "text": "<p>Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack roll with a weapon, a spell, or some other means, you have &amp;Reference[Disadvantage] on the roll if you are within 5 feet of an enemy who can see you and doesn’t have the &amp;Reference[Incapacitated] condition.</p>"
+          "name": "Attaques à distance en combat rapproché",
+          "text": "<p>La visée d'une attaque a distance s'avère plus compliquée quand un adversaire se tient près de vous. Lorsque vous effectuez une attaque à distance avec une arme, un sort ou autre moyen. vou avez le &amp;Reference[Disadvantage] au jet d'attaque si vous vous trouvez dans un rayon de 1,50 m d'un ennemi qui vous voit et qui ne subit pas l'état &amp;Reference[Incapacitated apply=false] (cf. glossaire de règles).</p>"
         },
         "Melee Attacks": {
           "name": "Melee Attacks",
@@ -2948,9 +2948,9 @@
           "text": "<p>Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you. The target must succeed on a Strength or Dexterity saving throw (it chooses which), or you either push it 5 feet away or cause it to have the &amp;Reference[Prone] condition. The DC for the saving throw equals 8 plus your Strength modifier and Proficiency Bonus. This shove is possible only if the target is no more than one size larger than you.</p>"
         },
         "Ending a Grapple": {
-          "name": "Ending a Grapple",
-          "text": "<p><em><strong>Ending a Grapple.</strong></em> A Grappled creature can use its action to make a [[/check ath]] or [[/check acr]] against the grapple’s escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the Incapacitated condition or if the distance between the Grappled target and the grappler exceeds the grapple’s range. In addition, the grappler can release the target at any time (no action required).</p>",
-          "tooltip": "<p>A grappled creature can use its action to escape. To do so, it must succeed on a [[/check ath]] or [[/check acr]] check contested by your Strength (Athletics) check.</p>"
+          "name": "Mettre fin à la lutte",
+          "text": "<p><em><strong>Mettre fin à la lutte.</strong></em> Une créature Agrippée peut consacrer son action à effectuer un test de [[/check ath]] ou [[/check acr]] contre le DD d’évasion de la lutte, mettant un terme à l’état sur elle-même en cas de réussite. L’état prend fin également si l’agrippeur subit l’état Neutralisé ou si la distance entre la cible agrippée et l’agrippeur dépasse la portée d’allonge de ce dernier. En outre, l’agrippeur peut à tout moment mettre fin à la lutte (pas d’action requise).</p>",
+          "tooltip": "<p>Une créature Agrippée peut consacrer son action à effectuer un test de [[/check ath]] ou [[/check acr]] contre le DD de votre test [[/check ath]].</p>"
         },
         "Moving a Grappled Creature": {
           "name": "Moving a Grappled Creature",
@@ -2966,32 +2966,32 @@
           "text": "<p>Au lieu d'utiliser une arme pour effectuer une attaque de corps à corps, vous pouvez recourir à un coup de poing, de pied ou de tête, ou autre frappe violente. En termes de jeu, on parle alors d'attaque à mains nues : une attaque de corps à corps qui vous demande d'utiliser votre corps pour infliger des dégâts, agripper ou bousculer une cible située dans un rayon de 1,50 m.</p><p>Whenever you use your Unarmed Strike, choose one of the following options for its effect.</p><p><em><strong>Damage.</strong></em> You make an attack roll against the target. Your bonus to the roll equals your Strength modifier plus your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 plus your Strength modifier.</p><p><em><strong>Grapple.</strong></em> The target must succeed on a Strength or Dexterity saving throw (it chooses which), or it has the &amp;reference[Grappled] condition. The DC for the saving throw and any escape attempts equals 8 plus your Strength modifier and Proficiency Bonus. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it. <em>See also</em> &amp;reference[Grappling].</p><p><em><strong>Shove.</strong></em> The target must succeed on a Strength or Dexterity saving throw (it chooses which), or you either push it 5 feet away or cause it to have the &amp;reference[Prone] condition. The DC for the saving throw equals 8 plus your Strength modifier and Proficiency Bonus. This shove is possible only if the target is no more than one size larger than you.</p>"
         },
         "Cover": {
-          "name": "Cover",
-          "text": "<p>Cover provides a degree of protection to a target behind it. There are three degrees of cover, each of which provides a different benefit to a target:</p><p>@Embed[.hv0J61IAfofuhy3Q inline]</p><p>@Embed[.zAMStUjUrPV10dFm inline]</p><p>@Embed[.BKUAxXuPEzxiEOeL inline]</p><p>If behind more than one degree of cover, a target benefits only from the most protective degree. <em>See also</em> @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{Combat}.</p>"
+          "name": "Abri",
+          "text": "<p>L'abri fournit un degré de protection à la cible située derrière. Il existe trois niveaux d'abri qui octroient chacun un bénéfice distinct aux cibles abritées:</p><p>@Embed[.hv0J61IAfofuhy3Q inline]</p><p>@Embed[.zAMStUjUrPV10dFm inline]</p><p>@Embed[.BKUAxXuPEzxiEOeL inline]</p><p>Une cible qui se trouve derrière plus d'un type d'abri ne bénéficie que du degré le plus protecteur. <em>Lire aussi</em> chapitre 1 @UUID[Compendium.dnd5e.content24.JournalEntry.phbCombat0000000]{Combat}.</p>"
         },
         "Half Cover": {
-          "name": "Half Cover",
-          "text": "<p>A target with<strong> half cover </strong>has a +2 bonus to AC and Dexterity saving throws.</p>"
+          "name": "Abri partiel",
+          "text": "<p>Une cible avec un <strong>abri partiel</strong> bénéficie d'un bonus de +2 à la CA et aux jets de sauvegarde de Dextérité.</p>"
         },
         "Three-Quarters Cover": {
-          "name": "Three-Quarters Cover",
-          "text": "<p>A target with <strong>three-quarters cover</strong> has a +5 bonus to AC and Dexterity saving throws.</p>"
+          "name": "Abri supérieur",
+          "text": "<p>Une cible avec un <strong>abri supérieur</strong> bénéficie d'un bonus de +5 à la CA et aux jets de sauvegarde de Dextérité.</p>"
         },
         "Total Cover": {
-          "name": "Total Cover",
-          "text": "<p>A target with <strong>total cover </strong>can't be targeted directly.</p>"
+          "name": "Abri total",
+          "text": "<p>Une cible avec un <strong>abri total </strong>ne peut pas être pris pour cible directement.</p>"
         },
         "PFbzoMBviI2DD9QP": {
-          "name": "Hit Points",
-          "text": "<p>Hit Points (HP) are a measure of how difficult it is to kill or destroy a creature or an object. Damage reduces Hit Points, and healing restores them. You can’t have more Hit Points than your Hit Point maximum, and you can’t have less than 0.</p>"
+          "name": "Points de vie",
+          "text": "<p>Les points de vie (pv en abrégé) sont la mesure chiffrée de la difficulté à tuer une créature ou détruire un objet. Les dégâts réduisent les points de vie, les soins les rétablissent. Vous ne pouvez pas avoir plus de points de vie que votre maximum de points de vie, et vous ne pouvez pas en avoir moins de 0.</p>"
         },
         "Damage Rolls": {
           "name": "Damage Rolls",
           "text": "<p>A damage roll is a die roll, adjusted by any applicable modifiers, that deals damage to a target.</p><h2>Critical Hits</h2><p>@Embed[.gFL1VhSEljL1zvje inline]</p><h2>Damage Types</h2><p>@Embed[.jVOgf7DNEhkzYNIe inline]</p>"
         },
         "Critical Hits": {
-          "name": "Critical Hits",
-          "text": "<p>If you roll a 20 on the d20 for an attack roll, you score a Critical Hit, and the attack hits regardless of any modifiers or the target’s AC. A Critical Hit lets you roll extra dice for the attack’s damage against the target. Roll all of the attack’s damage dice twice and add them together. Then add any relevant modifiers.</p>"
+          "name": "Coup critique",
+          "text": "<p>Si vous obtenez un 20 sur le d20 d'un jet d'attaque, il s'agit d'un Coup critique : l'attaque touche quels que soient les modificateurs afférents et la CA de la cible. Un Coup critique vous autorise à lancer des dés supplémentaires pour déterminer les dégâts de l’attaque contre la cible. Ainsi, tous les dés de dégâts de l’attaque sont lancés deux fois et ajoutés les uns aux autres. Ajoutez ensuite les modificateurs applicables.</p>"
         },
         "Damage Types": {
           "name": "Damage Types",
@@ -3139,8 +3139,8 @@
           "text": "<p>You must have training with any armor you are wearing to cast spells while wearing it. You are otherwise too hampered by the armor for spellcasting.</p>"
         },
         "Cantrips": {
-          "name": "Cantrips",
-          "text": "<p>A cantrip is a level 0 spell, which is cast without a spell slot.</p>"
+          "name": "Sort mineur",
+          "text": "<p>Un sort mineur est un sort du niveau 0, qui se lance sans dépenser d'emplacement de sort.</p>"
         },
         "Rituals": {
           "name": "Rituals",
@@ -3207,24 +3207,24 @@
           "text": "<p>Some spells, such as Thunderwave, cover an area called an area of effect, which is defined in the rules glossary. The area determines what the spell targets. The description of a spell specifies whether it has an area of effect, which is typically one of these shapes: Cone, Cube, Cylinder, Emanation, Line, or Sphere.</p><p>@Embed[.8HxbRceQQUAhyWRt inline]</p><h3>Cone</h3><p>@Embed[.DqqAOr5JnX71OCOw inline]</p><h3>Cube</h3><p>@Embed[.dRfDIwuaHmUQ06uA inline]</p><h3>Cylinder</h3><p>@Embed[.jZFp4R7tXsIqkiG3 inline]</p><h3>Line</h3><p>@Embed[.6DOoBgg7okm9gBc6 inline]</p><h3>Sphere</h3><p>@Embed[.npdEWb2egUPnB5Fa inline]</p>"
         },
         "Cone": {
-          "name": "Cone",
-          "text": "<p>A Cone is an area of effect that extends in straight lines from a point of origin in a direction its creator chooses. A Cone’s width at any point along its length is equal to that point’s distance from the point of origin. For example, a Cone is 15 feet wide at a point along its length that is 15 feet from the point of origin. The effect that creates a Cone specifies its maximum length.</p><p>A Cone’s point of origin isn’t included in the area of effect unless its creator decides otherwise.</p>"
+          "name": "Cône",
+          "text": "<p>Un Cône est une zone d’effet qui s’étend en ligne droite à partir d’un point d’origine dans la direction choisie par son créateur. Sa largeur en un point donné du Cône est toujours égale à la distance qui sépare ce point de l’origine du Cône. La largeur d’un Cône est de 4,50 m, par exemple, au point de sa longueur distant de 4,50 m du point d’origine. L’effet qui crée un Cône stipule sa longueur maximale.</p><p>Le point d’origine du Cône n’est pas situé dans la zone d’effet, sauf si son créateur en décide autrement.</p>"
         },
         "Cube": {
           "name": "Cube",
-          "text": "<p>A Cube is an area of effect that extends in straight lines from a point of origin located anywhere on a face of the Cube. The effect that creates a Cube specifies its size, which is the length of each side.</p><p>A Cube’s point of origin isn’t included in the area of effect unless its creator decides otherwise.</p>"
+          "text": "<p>Un Cube est une zone d’effet qui s’étend en ligne droite à partir d’un point d’origine situé n’importe où sur l’une des faces du Cube. L’effet qui crée un Cube spécifie sa taille, à savoir la longueur de chaque arête.</p><p>Le point d’origine d’un Cube n’est pas situé dans la zone d’effet, sauf si son créateur en décide autrement.</p>"
         },
         "Cylinder": {
-          "name": "Cylinder",
-          "text": "<p>A Cylinder is an area of effect that extends in straight lines from a point of origin located at the center of the circular top or bottom of the Cylinder. The effect that creates a Cylinder specifies the radius of the Cylinder’s base and the Cylinder’s height.</p><p>A Cylinder’s point of origin is included in the area of effect.</p>"
+          "name": "Cylindre",
+          "text": "<p>Un Cylindre est une zone d’effet qui s’étend en ligne droite à partir d’un point d’origine situé au centre de la partie supérieure ou inférieure du Cylindre. L’effet qui crée un Cylindre spécifie le rayon de la base du Cylindre et sa hauteur.</p><p>Le point d’origine d’un Cylindre est situé dans sa zone d’effet.</p>"
         },
         "Line": {
-          "name": "Line",
-          "text": "<p>A Line is an area of effect that extends from a point of origin in a straight path along its length and covers an area defined by its width. The effect that creates a Line specifies its length and width.</p><p>A Line’s point of origin isn’t included in the area of effect unless its creator decides otherwise.</p>"
+          "name": "Ligne",
+          "text": "<p>Une Ligne est une zone d’effet qui s’étend en ligne droite à partir d’un point d’origine et couvre une zone définie par sa longueur et sa largeur. L’effet qui crée une Ligne spécifie sa longueur et sa largeur.</p><p>Le point d’origine d’une Ligne n’est pas situé dans la zone d’effet, sauf si son créateur en décide autrement.</p>"
         },
         "Sphere": {
-          "name": "Sphere",
-          "text": "<p>A Sphere is an area of effect that extends in straight lines from a point of origin outward in all directions. The effect that creates a Sphere specifies the distance it extends as the radius of the Sphere.</p><p>A Sphere’s point of origin is included in the Sphere’s area of effect.</p>"
+          "name": "Sphère",
+          "text": "<p>Une Sphère est une zone d’effet qui s’étend en ligne droite dans toutes les directions à partir d’un point d’origine. L’effet qui crée une Sphère stipule la distance à laquelle elle s’étend, ce qui constitue le rayon de la Sphère.</p><p>Le point d’origine d’une Sphère est situé dans sa zone d’effet.</p>"
         },
         "Saving Throws": {
           "name": "Saving Throws",
@@ -3545,8 +3545,8 @@
           "text": "<p>This entry lists any languages the monster knows</p><h3>Telepathy</h3><p>@Embed[.geTidcFIYWuUvD2L inline]</p>"
         },
         "Telepathy": {
-          "name": "Telepathy",
-          "text": "<p>Telepathy is a magical ability that allows a creature to communicate mentally with another creature within a specified range. Unless a rule states otherwise, the contacted creature doesn’t need to share a language with the telepath to understand this communication, but the contacted creature must be able to understand at least one language or be telepathic itself to understand.</p><p>A telepath doesn’t need to see a contacted creature, and the telepath can start or end the telepathic contact at any time (no action required). Telepathic contact can’t be initiated and is immediately broken if either the telepath or the other creature has the Incapacitated condition. Telepathic contact is also broken if the contacted creature is no longer within the telepathy’s range or if the telepath contacts a different creature within range.</p><p>A creature without telepathy can receive telepathic messages but can’t initiate a telepathic conversation. Once a telepathic conversation starts, the non-telepath can communicate mentally to the telepath until the telepathic connection ends.</p>"
+          "name": "Télépathie",
+          "text": "<p>La télépathie est une faculté magique permettant à un créature de communiquer mentalement avec une autre créature à une portée définie. Pour saisir le sens de cette communication, sauf mention contraire, la créature contactée n’est pas tenue de maîtriser une langue commune avec le télépathe, mais elle doit comprendre au moins une langue ou être elle-même télépathe.</p><p>Le télépathe n’a pas besoin de voir la créature contactée, et peut débuter le contact télépathique ou y mettre un terme à tout moment (pas d’action requise). Le contact télépathique ne peut pas être initié et il est immédiatement rompu si le télépathe ou l’autre créature subit l’état Neutralisé. Le contact télépathique est également rompu dès que la créature contactée quitte la portée de la faculté télépathique, ou que le télépathe contacte une autre créature à portée.</p><p>Une créature non télépathe peut recevoir des messages télépathiques mais elle ne peut pas initier une telle conversation. Dès qu’une conversation télépathique a débuté, le non-télépathe peut communiquer mentalement avec le télépathe jusqu’à ce que la liaison télépathique prenne fin.</p>"
         },
         "Challenge": {
           "name": "Challenge",
@@ -3938,12 +3938,12 @@
           "text": "<p>When you take the &amp;Reference[Attack] action, you make an attack. Some other actions, &amp;Reference[Bonus Action]{Bonus Actions}, and &amp;Reference[Reaction]{Reactions} also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:</p><ol><li><strong>Choose a Target.</strong> Pick a target within your attack’s range: a creature, an object, or a location.</li><li><strong>Determine Modifiers. </strong>The DM determines whether the target has &amp;Reference[Cover] and whether you have &amp;Reference[Advantage] or &amp;Reference[Disadvantage] against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.</li><li><strong>Resolve the Attack. </strong>Make the attack roll, as detailed earlier in this chapter. On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.</li></ol>"
         },
         "Cover": {
-          "name": "Cover",
-          "text": "<p>Walls, trees, creatures, and other obstacles can provide cover, making a target more difficult to harm. As detailed in the Cover table, there are three degrees of cover, each of which gives a different benefit to a target.</p><p>A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover. If a target is behind multiple sources of cover, only the most protective degree of cover applies; the degrees aren’t added together. For example, if a target is behind a creature that gives Half Cover and a tree trunk that gives Three-Quarters Cover, the target has Three-Quarters Cover.</p><aside class=\"notable\"><h3>Unseen Attackers and Targets</h3><p>When you make an attack roll against a target you can’t see, you have &amp;reference[Disadvantage] on the roll. This is true whether you’re guessing the target’s location or targeting a creature you can hear but not see. If the target isn’t in the location you targeted, you miss.</p><p>When a creature can’t see you, you have &amp;Reference[Advantage] on attack rolls against it.</p><p>If you are hidden when you make an attack roll, you give away your location when the attack hits or misses.</p></aside><table><caption>Cover</caption><thead><tr><th><p>Degree</p></th><th><p>Benefit to Target</p></th><th><p>Offered By …</p></th></tr></thead><tbody><tr><td><p>Half</p></td><td><p>+2 bonus to AC and Dexterity saving throws</p></td><td><p>Another creature or an object that covers at least half of the target</p></td></tr><tr><td><p>Three-<br />Quarters</p></td><td><p>+5 bonus to AC and Dexterity saving throws</p></td><td><p>An object that covers at least three-quarters of the target</p></td></tr><tr><td><p>Total</p></td><td><p>Can’t be targeted directly</p></td><td><p>An object that covers the whole target</p></td></tr></tbody></table>"
+          "name": "Abri",
+          "text": "<p>Les murs, arbres, créatures et autres obstacles peuvent fournir un abri, qui protège la créature. Comme détaillé dans la table Abris, il existe trois degrés d'abris qui octroient chacun un bénéfice différent aux cibles.</p><p>Une cible ne peut profiter d'un abri qu'en cas d'attaque ou d'effet provenant de l'autre côté de l'abri. Quand une cible se trouve derrière plusieurs éléments d'abri, seul celui qui fournit le niveau de protection le plus élevé est pris en compte ; les degrés ne se cumulent pas. Exemple : si une cible se trouve derrière une créature qui lui donne un Abri partiel et un arbre qui lui donne un Abri supérieur, elle ne bénéficie que d'un Abri supérieur.</p><aside class=\"notable\"><h3>Assaillants et cibles non visibles</h3><p>Lorsque vous effectuez un jet d'attaque contre une cible que vous ne voyez pas, vous avez le &amp;reference[Disadvantage] au jet. Cela reste vrai que vous tentiez de deviner la position de la cible ou que vous cibliez une créature que vous entendez, mais ne voyez pas. Si la cible ne se trouve pas à l'endroit que vous visez, votre attaque rate.</p><p>Lorsqu'une créature ne vous voit pas, vous avez l'&amp;Reference[Advantage] aux jets d'attaque contre elle.</p><p>Si vous êtes caché quand vous effectuez un jet d'attaque, votre position est révélée lorsque votre attaque touche ou rate.</p></aside><table><caption>Abris</caption><thead><tr><th><p>Degré</p></th><th><p>Bénéfice pour la cible</p></th><th><p>Octroyé par</p></th></tr></thead><tbody><tr><td><p>Partiel</p></td><td><p>+2 à la CA et aux JS Dextérité</p></td><td><p>Une autre créature ou un objet qui protège au moins la moitié du corps de la cible</p></td></tr><tr><td><p>Supérieur</p></td><td><p>+5 à la CA et aux JS Dextérité</p></td><td><p>Un objet qui abrite au moins les trois quarts du corps de la cible</p></td></tr><tr><td><p>Total</p></td><td><p>Ne peut être directement ciblée</p></td><td><p>Un objet qui abrite intégralement la cible</p></td></tr></tbody></table>"
         },
         "Ranged Attacks": {
-          "name": "Ranged Attacks",
-          "text": "<p>When you make a ranged attack, you fire a bow, hurl an axe, or otherwise send projectiles to strike a foe at a distance. Many spells also involve making a ranged attack.</p><h2>Range</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.HjKXuB8ndjcqOds7 inline]</p><h2>Ranged Attacks in Close Combat</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.qEZvxW0NM7ixSQP5 inline]</p>"
+          "name": "Attaques à distance",
+          "text": "<p>Lorsque vous effectuez une attaque à distance, vous tirez à l'arc, lancez une hache ou des projectiles vers un adversaire distant. De nombreux sorts font également intervenir une attaque à distance.</p><h2>Portée</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.HjKXuB8ndjcqOds7 inline]</p><h2>Attaques à distance en combat rapproché</h2><p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.qEZvxW0NM7ixSQP5 inline]</p>"
         },
         "Melee Attacks": {
           "name": "Melee Attacks",
